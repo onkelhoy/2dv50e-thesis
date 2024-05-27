@@ -1,0 +1,13 @@
+*.jpeg
+*.jpg
+*.png
+*.mp4
+*.rar
+
+.DS_Store
+.obsidian/
+__pycache__/
+thesis_venv/
+pyrightconfig.json
+Code/Images/
+
