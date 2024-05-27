@@ -5,3 +5,4 @@ thesis_venv/
 pyrightconfig.json
 Code/Images/
 
+*.pdf
